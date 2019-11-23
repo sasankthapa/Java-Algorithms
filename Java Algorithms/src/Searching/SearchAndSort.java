@@ -1,4 +1,4 @@
-package Searching;
+package src.Searching;
 
 public class SearchAndSort<T extends Comparable<T>> {
 	
